@@ -1,0 +1,156 @@
+.product_boxes {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.item_box {
+    width: 250px;
+    height: 250px;
+    background-color:white;
+    box-shadow: 5px 5px 30px #888888;
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+    margin:25px;
+}
+
+.item_image {
+    width: 250px;
+    height:165px;
+    border-radius: 10px 10px 0px 0px;
+}
+.item_info_box {
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+}
+.item_info {
+    display: flex;
+    flex-direction: column;
+}
+
+.item_button {
+    width: 72px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+    background-color: #FC5761;
+    border: none;
+    color: white;
+}
+
+.item_button_price {
+    width: 72px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
+    background-color: #FC5761;
+    border: none;
+    color: white;
+}
+
+.small_text {
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+}
+
+.small_text p{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+    font-size: 10px;
+}
+
+.item_title {
+    margin: 0px;
+    margin-left: 15px;
+}
+
+.time_posted_icon {
+    margin-left: 15px;
+}
+
+.location_icon {
+    margin-left: 15px;
+    margin-top: 5px;
+    width: 10px;
+    height: 10px;
+}
+
+.housing_box {
+    width: 1000px;
+    height: 250px;
+    background-color:white;
+    box-shadow: 5px 5px 30px #888888;
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+    margin:25px;
+}
+
+.housing_all {
+    display: flex;
+    flex-direction: row;
+}
+
+.housing_info_box {
+    display: flex;
+    flex-direction: row;
+}
+
+.housing_info {
+    width: 250px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+}
+.housing_img {
+    width: 250px;
+    height:200px;
+    border-radius: 10px 0px 0px 0px;
+}
+
+.info_box {
+    height:50%;
+    width:200px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.info_box p {
+    margin-left: 20px;
+    margin-top: 45px;
+}
+
+.desc_title {
+    display: flex;
+    flex-direction: row;
+    color:#78BDC4;
+}
+
+.housing_button {
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 65px;
+    margin-right: 5px;
+    background-color: #FC5761;
+    border: none;
+    color: white;
+}
+
+.time_posted_desc {
+    font-size: 10px;
+}
+
+.time_icon {
+    margin-top: -27px;
+    margin-left: 50px;
+}
+
+.desc {
+margin-right: 10px;
+}
