@@ -11,7 +11,14 @@
 
 .sidebar_cars {
     width: 250px;
-    height: 940px;
+    height: 960px;
+    background-color: #012C3D;
+    margin: 5px;
+}
+
+.sidebar_housing {
+    width: 250px;
+    height: 810px;
     background-color: #012C3D;
     margin: 5px;
 }
@@ -23,6 +30,7 @@
     display: flex;
     font-family: 'Roboto', sans-serif;
 }
+
 .sidebar_subhead {
     font-family: 'Roboto', sans-serif;
     color: white;
@@ -49,6 +57,7 @@
     left: 5px;
     width: 16px;
     height: 16px;
+    color: white;
 }
 
 
@@ -132,4 +141,29 @@
     height: 40px;
     justify-content: center;
     align-content: center;
+}
+
+.room_input_box {
+    display: flex;
+    flex-direction: row;
+    height: 45px;
+    width:250px;
+}
+
+.room_input {
+    text-align: center;
+    height:20px;
+    width: 45px;
+    border-radius: 3px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.arrow_down_icon_housing {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 5px;
+    top: 25px;
 }
