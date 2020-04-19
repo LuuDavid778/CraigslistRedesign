@@ -1,0 +1,202 @@
+.detail_cont {
+    width: 812px;
+    margin-top: 20pt;
+height: 1276px;
+border-radius: 20px;
+background: transparent;
+border: 1px solid #d2d2d2;
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.16);
+
+}
+.detailed_category {
+    font-family: Roboto;
+}
+
+.detail_header{
+    font-family: Roboto;
+font-weight: 700;
+font-size: 30px;
+margin-left: 25pt;
+
+color: #78bdc4;
+
+}
+
+.detail_list_bttn {
+    width: 125pt;
+    height: 45pt;
+    font-family: Roboto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: white;
+    background: #f8444f;
+    font-size: 15pt;
+    bottom: 20pt;
+    position: absolute;
+    right: 50pt;
+    }
+
+    .selected_category {
+        width: 749px;
+height: 71px;
+background: #fff;
+border: 1px solid #707070;
+border-radius: 10pt;
+display: flex;
+align-items: center;
+position: absolute;
+top: 30pt;
+    }
+
+    .detail_cont {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+    }
+
+    .selected_category_text{
+       font-weight: 400;
+        font-size: 18pt;
+        width: 90%;
+        margin-left: 20pt;
+    }
+
+.detail_list_title_text {
+    width: 749px;
+height: 71px;
+border: 1px solid #707070;
+border-radius: 10pt;
+display: flex;
+align-items: center;
+font-size: 15pt;
+padding-left: 20pt;
+
+justify-content: center;
+flex-direction: column;
+}
+
+.detail_list_input {
+    width: 720px;
+    height: 71px;
+    background: #fff;
+    border: 1px solid #707070;
+    border-radius: 10pt;
+    padding-left: 20pt;
+    font-size: 20pt;
+    font-family: Roboto;
+}
+
+.detail_list_title_cont {
+ position: absolute;   
+ top: 100pt;
+}
+
+.detail_list_title_cont h2 {
+    color: #78BDC4;
+}
+  
+.detail_list_desc {
+    width: 720px;
+height: 253px;
+border-radius: 13px;
+background: #fff;
+border: 1px solid #707070;
+padding-left: 20pt;
+padding-top: 20pt;
+font-size: 20pt;
+font-family: Roboto;
+}
+
+.detail_list_desc_cont h2 {
+    color: #78BDC4;
+}
+
+.detail_list_desc_cont{
+    position: absolute;
+    top: 215pt;
+}
+
+
+/* price div starts here */ 
+
+.detail_list_price_cont {
+    top: 500pt;
+    position: absolute;
+}
+
+.detail_list_price_cont h2 {
+    color: #78BDC4;
+}
+
+/*END */ 
+
+
+/* CONDITION BOXES STARTS HERE */ 
+
+
+.detail_list_condition_cont {
+position: absolute;
+top: 610pt;
+display: flex;
+left: 25pt;
+flex-direction: column;
+
+}
+
+.detail_list_condition_cont h2 {
+    color: #78BDC4;
+    font-size: 20pt;
+}
+.detail_list_condition_new {
+width: 35px;
+height: 34px;
+border-radius: 7px;
+background: #fff;
+border: 1px solid #707070;
+opacity: 0.76;
+}
+
+#detail_list_box{
+    display: flex;
+    align-items: center;
+    font-family: Roboto;
+    font-size: 20pt;
+
+}
+
+#detail_list_condition_text {
+    margin-right: 20pt;
+}
+
+
+
+
+
+.detail_list_phone_cont {
+    position: absolute;
+    top: 700pt;
+
+}
+
+.detail_list_phone_cont h2 {
+    color: #78BDC4;
+    font-size: 20pt;
+    margin-bottom: 3pt;
+}
+
+.detail_list_email_cont {
+    bottom: 50pt;
+    position: absolute;
+
+}
+
+.detail_list_email_cont h2 {
+    margin-bottom: 3pt;
+    color: #78BDC4;
+    font-size: 20pt;
+}

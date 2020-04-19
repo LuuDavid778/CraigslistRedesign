@@ -1,0 +1,23 @@
+.sign_in_header {
+    display: flex;
+}
+
+.sign_in {
+    font-family: Roboto;
+font-weight: normal;
+font-size: 50px;
+text-align: left;
+color: #5a969c;
+
+}
+
+.sign_up {
+    font-family: Roboto;
+font-weight: normal;
+font-size: 50px;
+text-align: left;
+color: #727171;
+opacity: 0.49;
+
+}
+

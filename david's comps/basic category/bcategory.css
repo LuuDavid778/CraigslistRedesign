@@ -1,0 +1,65 @@
+#Basic_Category {
+    position: absolute;
+    width: 305px;
+    height: 377px;
+
+}
+#Image {
+    position: absolute;
+    width: 305px;
+    height: 377px;
+    left: 0px;
+    top: 0px;
+}
+#Appliances {
+    position: absolute;
+    left: 54px;
+    top: 168px;
+    width: 125px;
+    margin-top: -7px;
+    font-family: Roboto;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    z-index: 2; 
+}
+#button_group {
+    position: absolute;
+    width: 137.351px;
+    height: 49.487px;
+    left: 54.467px;
+    top: 278.732px;
+    z-index: 2; 
+
+}
+.button_shape {
+    position: absolute;
+    width: 137.352px;
+    height: 49.487px;
+    background-color: #78BDC4;
+    border-radius: 20pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13pt;
+    z-index: 2; 
+    color: rgba(247,248,243,1);
+}
+
+
+.button_shape:active {
+    background-color: #609CA2;
+}
+
+
+
+.Basic_Category_modal {
+    width: 305px;
+    height: 377px;
+    background-color: black;
+    position: absolute;
+    z-index: 1; 
+    opacity: 30%;
+}

@@ -1,0 +1,128 @@
+.sign_in_header {
+    display: flex;
+}
+
+.sign_in {
+    font-family: Roboto;
+font-weight: normal;
+font-size: 50px;
+text-align: left;
+color: #5a969c;
+
+}
+
+.sign_up {
+    font-family: Roboto;
+font-weight: normal;
+font-size: 50px;
+text-align: left;
+color: #727171;
+opacity: 0.49;
+
+}
+
+.sign_in_username {
+background: transparent;
+border: 1pt solid #7a9199;
+border-radius: 20pt;
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100pt;
+height: 93pt;
+border-radius: 20pt 0pt 0pt 20pt;
+background: #fff;
+}
+
+.sign_in_usename_icon {
+    width: 56.54pt;
+    height: 56.54pt;
+    
+
+}
+.sign_in_username_input {
+    width: 531pt;
+    height: 92pt;
+    background: transparent;
+    border: 1pt solid #7a9199;    
+    margin-left:-.5pt;
+    border-radius: 0pt 20pt 20pt 0pt;
+
+}
+
+.sign_in_cont {
+    display: flex;
+}
+
+.sign_in_username_input::placeholder {
+    font-family: Roboto;
+font-weight: normal;
+font-size: 30pt;
+text-align: left;
+color: #707070;
+opacity: 0.78;
+padding-left: 30pt;
+}
+
+.remember_me_cont {
+    display: flex;
+    align-items: center;
+}
+
+.remember_me_box {
+    width: 35pt;
+height: 34pt;
+border-radius: 7pt;
+background: #fff;
+border: 1pt solid #707070;
+opacity: 0.76;
+
+}
+
+.remember_me_text {
+    font-family: Roboto;
+font-weight: normal;
+font-size: 21pt;
+text-align: left;
+color: #707070;
+padding-left: 10pt;
+}
+
+.sign_in_buttom {
+    width: 531px;
+height: 85px;
+background: #fc5761;
+border-radius: 20pt;
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: Roboto;
+font-weight: bold;
+font-size: 29px;
+text-align: left;
+color: #fff;
+
+}
+
+.or_devider_cont {
+    display: flex;
+    align-items: center;
+}
+
+.or_devider_line {
+    width: 244px;
+height: 4px;
+background: #a8a8a8;
+opacity: 0.36;
+
+}
+
+.or_devider_text {
+    font-family: Roboto;
+font-weight: normal;
+font-size: 32px;
+text-align: left;
+color: #a9a9a9;
+opacity: 0.82;
+padding: 5pt;
+}

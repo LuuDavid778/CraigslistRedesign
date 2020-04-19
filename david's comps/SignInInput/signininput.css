@@ -1,0 +1,58 @@
+.sign_up {
+    font-family: Roboto;
+font-weight: normal;
+font-size: 50px;
+text-align: left;
+color: #727171;
+opacity: 0.49;
+
+}
+
+.sign_in_username {
+background: transparent;
+border: 1pt solid #7a9199;
+border-radius: 20pt;
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100pt;
+height: 93pt;
+border-radius: 20pt 0pt 0pt 20pt;
+background: #fff;
+}
+
+.sign_in_usename_icon {
+    width: 56.54pt;
+    height: 56.54pt;
+    
+
+}
+.sign_in_username_input {
+    width: 531pt;
+    height: 92pt;
+    background: transparent;
+    border: 1pt solid #7a9199;    
+    margin-left:-.5pt;
+    border-radius: 0pt 20pt 20pt 0pt;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 30pt;
+    text-align: left;
+    color: #78BDC4;
+    opacity: 0.78;
+    padding-left: 30pt;
+}
+
+.sign_in_cont {
+    display: flex;
+}
+
+.sign_in_username_input::placeholder {
+    font-family: Roboto;
+font-weight: normal;
+font-size: 30pt;
+text-align: left;
+color: #707070;
+opacity: 0.78;
+padding-left: 30pt;
+}

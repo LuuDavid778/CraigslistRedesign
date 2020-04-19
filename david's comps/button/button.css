@@ -1,0 +1,20 @@
+.button_cont {
+width: 261px;
+height: 66px;
+border-radius: 10px;
+background: #fc5761;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.button_text {
+    font-family: Roboto;
+    color: white;
+
+font-weight: bold;
+font-size: 29px;
+text-align: left;
+color: #fff;
+
+}

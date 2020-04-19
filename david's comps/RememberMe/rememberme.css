@@ -1,0 +1,23 @@
+.remember_me_cont {
+    display: flex;
+    align-items: center;
+}
+
+.remember_me_box {
+    width: 35pt;
+height: 34pt;
+border-radius: 7pt;
+background: #fff;
+border: 1pt solid #707070;
+opacity: 0.76;
+
+}
+
+.remember_me_text {
+    font-family: Roboto;
+font-weight: normal;
+font-size: 21pt;
+text-align: left;
+color: #707070;
+padding-left: 10pt;
+}

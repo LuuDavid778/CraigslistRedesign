@@ -1,0 +1,22 @@
+.or_devider_cont {
+    display: flex;
+    align-items: center;
+}
+
+.or_devider_line {
+    width: 244px;
+height: 4px;
+background: #a8a8a8;
+opacity: 0.36;
+
+}
+
+.or_devider_text {
+    font-family: Roboto;
+font-weight: normal;
+font-size: 32px;
+text-align: left;
+color: #a9a9a9;
+opacity: 0.82;
+padding: 5pt;
+}

@@ -1,0 +1,13 @@
+.forgot_pass_cont {
+    display: flex;
+    font-family: Roboto;
+}
+
+#forgot_pass_text {
+    color: #707070;
+}
+
+#forgot_pass_link {
+   color:#5A969C;
+   margin-left: 10pt;
+}
