@@ -1,0 +1,60 @@
+#Group_1092 {
+    position: absolute;
+    width: 223px;
+    height: 46.152px;
+    left: 41px;
+    top: 32px;
+    overflow: visible;
+}
+.icon {
+    overflow: visible;
+    position: absolute;
+    width: 46.152px;
+    height: 46.152px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Sign_in {
+    position: absolute;
+    left: 63px;
+    top: 11.193px;
+    overflow: visible;
+    width: 63px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,162,167,1);
+}
+#Register {
+    position: absolute;
+    left: 147px;
+    top: 11.193px;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,162,167,1);
+}
+#line {
+    opacity: 0.3;
+    position: absolute;
+    left: 134px;
+    top: 11.193px;
+    overflow: visible;
+    width: 5px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(1,44,61,1);
+}

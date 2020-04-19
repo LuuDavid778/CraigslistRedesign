@@ -1,0 +1,35 @@
+#listing_header {
+    position: absolute;
+
+}
+#Suzuki_Mini_Truck {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 493px;
+    height: 73px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 59px;
+    color: #78BDC4;
+}
+#date {
+    position: absolute;
+    left: 159px;
+    width: 300px;
+    top: 79px;
+    font-family: Roboto;
+    font-size: 25px;
+    color: rgba(134,134,134,1);
+}
+#price {
+    position: absolute;
+    left: 0px;
+    top: 73px;
+    font-family: Roboto;
+    font-size: 40px;
+    color: rgba(1,44,61,1);
+}

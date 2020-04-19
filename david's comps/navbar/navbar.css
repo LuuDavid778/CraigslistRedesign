@@ -1,0 +1,96 @@
+
+html, body {
+    margin: 0px;
+}
+#nav_div{
+    width: 1920px;
+    height: 60px;
+     background-color: #78BDC4;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+
+#bs_div, #cv_div , #housing_div , #community_div,  #services_div , #jobs_div{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+
+#bs_div {
+    position: absolute;
+    width: 180px;
+    left: 263px;
+}
+#Buy___Sell {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 25px;
+    color: rgba(247,248,243,1);
+}
+
+#cv_div {
+    position: absolute;
+    width: 270px;
+    left: 474px;
+
+}
+#Cars___Vehicles {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 25px;
+    color: rgba(247,248,243,1);
+}
+#housing_div {
+    position: absolute;
+    width: 180px;
+    height: 60px; 
+    left: 774px;
+}
+#Housing {
+
+    text-align: center;
+    font-family: Roboto;;
+    font-size: 25px;
+    color: white;
+}
+#services_div {
+    position: absolute;
+    width: 195px;
+    height: 60px;
+    left: 994px;
+}
+#Services {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 25px;
+    color: rgba(247,248,243,1);
+}
+#community_div {
+    position: absolute;
+    width: 250px;
+    height: 60px;
+    left: 1228px;
+}
+#community {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 25px;
+    color: rgba(247,248,243,1);
+}
+#jobs_div {
+    position: absolute;
+    width: 180px;
+    height: 60px;
+    left: 1521px;
+ 
+}
+#Jobs {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 25px;
+    color: rgba(247,248,243,1);
+}

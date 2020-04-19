@@ -1,0 +1,88 @@
+
+body, html {
+    margin: 0;
+}
+
+#Footer_Headers {
+    width: 750px;
+    height: 46px;
+ 
+}
+
+#Quick_Links, #Sitemap, #Support, #Subscribe {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #78BDC4;
+    line-height: 50px;
+    margin-top: -16px;
+}
+#Quick_Links {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 101px;
+    line-height: 50px;
+    margin-top: -16px;
+
+  
+}
+#Sitemap {
+    position: absolute;
+    left: 245px;
+    top: 0px;
+    width: 71px;
+    line-height: 50px;
+    margin-top: -16px;
+}
+#Support {
+    position: absolute;
+    left: 445px;
+    top: 0px;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    line-height: 50px;
+   
+}
+#Subscribe {
+    position: absolute;
+    left: 665px;
+    top: 0px;
+    width: 86px;
+
+    margin-top: -16px;
+}
+.Header_Line {
+    position: absolute;
+    width: 31px;
+    height: 4px;
+    left: 3px;
+    top: 42px;
+    background-color: #5F9EA5;
+}
+.Header_Line_bw {
+    position: absolute;
+    width: 31px;
+    height: 4px;
+    left: 248px;
+    top: 42px;
+    background-color: #5F9EA5;
+}
+.Header_Line_bx {
+    position: absolute;                 
+    width: 31px;
+    height: 4px;
+    left: 448px;
+    top: 42px;
+    background-color: #5F9EA5;
+}
+.Header_Line_by {
+    position: absolute;
+    width: 31px;
+    height: 4px;
+    left: 668px;
+    top: 42px;
+    background-color: #5F9EA5;
+}

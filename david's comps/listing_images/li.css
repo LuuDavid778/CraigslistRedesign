@@ -1,0 +1,37 @@
+.listing_image {
+width: 912px;
+height: 644px;
+}
+
+.listing_mainimage{
+    width: 912px;
+    height: 644px;
+}
+.listing_image_gallery {
+    display: flex;
+}
+
+.li_forward_arrow {
+    position: absolute;
+    top: 200pt;
+    left: 620pt;
+   
+}
+
+.listing_image_gallery_img {
+width: 196px;
+height: 144px;
+}
+
+.li_back_arrow {
+    position: absolute;
+    left: 20pt;
+    top: 200pt;
+}
+
+.listing_images_cont {
+    background-color: gray;
+    width: 912px;
+    height: 644px;
+}
+

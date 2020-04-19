@@ -1,0 +1,52 @@
+.listing_profile_cont {
+    margin-left:60pt;
+    width: 400pt;
+    height: 200pt;
+    border-radius: 30pt;
+    background-color: #012C3D;
+    color: white;
+    font-family: Roboto;
+    padding-top: 10pt;
+    padding-left: 70pt;
+
+}
+
+.listing_profile_img {
+    position: absolute;
+    top: 15pt;
+    left: 15pt;
+}
+
+.listing_profile_subhead {
+    display:flex;
+    color: #9BEAF2;
+    margin-top: 20pt;
+    align-items: center;
+}
+
+#view_listing{
+    margin-left: 5pt;
+}
+.listing_profile_header {
+    font-size: 30pt;
+}
+
+.listing_profile_posting {
+    position: absolute;
+    top: 80pt;
+    font-family: Roboto;
+    font-weight: lighter;
+}
+
+
+.listing_profile_thumbs_div {
+    display: flex;
+    position: absolute;
+    right: 140pt;
+    top: 90pt;
+
+}
+
+#thumbs_div {
+    margin-right: 20pt;
+}

@@ -1,0 +1,65 @@
+
+
+.listing_message_cont {
+width: 350pt;
+height:325pt;
+padding-left: 15pt;
+padding-right: 15pt;
+padding-top: 10pt;
+padding-bottom: 10pt;
+box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.16);
+border-radius: 15px;
+}
+
+
+
+.listing_message_header {
+    font-family: Roboto;
+    color: #012C3D;
+}
+
+
+.listing_message_bttn {
+width: 250pt;
+height: 45pt;
+background-color: #78BDC4;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+font-family: Roboto;
+font-size: 15pt;
+border-radius: 5pt;
+
+}
+
+.listing_message_input {
+    margin-top: 15pt;
+width: 325pt;
+height: 115pt;
+font-family: Roboto;
+border-radius: 8px;
+font-size: 15pt;
+border: none;
+padding: 10pt;
+box-shadow: gray 0px 0px 2px;
+}
+
+.listing_message_input::placeholder {
+    color: lightgray;
+}
+
+.listing_message_sendbttn {
+    width: 125pt;
+    height: 45pt;
+    font-family: Roboto;
+    margin-top: 10pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: white;
+    background: #f8444f;
+    font-size: 15pt;
+    
+}

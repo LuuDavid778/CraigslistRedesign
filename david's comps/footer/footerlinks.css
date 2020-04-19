@@ -1,0 +1,188 @@
+#Header_Links {
+    position: absolute;
+    width: 649px;
+    height: 172px;
+}
+#__Home_ {
+    position: absolute;
+    width: 138px;
+    height: 30px;
+    line-height: 35px;
+    margin-top: -9.5px;
+    text-align: left;
+    font-family: Roboto;
+    font-size: 16px;
+    color: rgba(225,225,225,1);
+
+}
+#__About_us_ {
+    position: absolute;
+    left: 0px;
+    top: 33px;
+    width: 138px;
+    height: 30px;
+    line-height: 35px;
+    margin-top: -9.5px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(225,225,225,1);
+}
+#__Careers_ {
+    position: absolute;
+    top: 66px;
+    width: 138px;
+    height: 30px;
+    line-height: 35px;
+    margin-top: -9.5px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(225,225,225,1);
+}
+#__Privacy_Policy_ {
+    position: absolute;
+    left: 445px;
+    top: 0px;
+
+    width: 205px;
+    height: 35px;
+    line-height: 35px;
+    margin-top: -9.5px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(225,225,225,1);
+}
+#__Terms___Conditions {
+    position: absolute;
+    left: 445px;
+    top: 34px;
+    width: 205px;
+    height: 35px;
+    line-height: 35px;
+    margin-top: -9.5px;
+    text-align: left;
+    font-family: Roboto;
+    font-size: 16px;
+    color: rgba(225,225,225,1);
+}
+#__Contact_us {
+    position: absolute;
+    left: 445px;
+    top: 65px;
+    width: 205px;
+    height: 35px;
+    line-height: 35px;
+    margin-top: -9.5px;
+    text-align: left;
+    font-family: Roboto;
+
+    font-size: 16px;
+    color: rgba(225,225,225,1);
+}
+#__Buy___Sell_ {
+    position: absolute;
+    left: 242px;
+    top: 0px;
+    width: 138px;
+    height: 26px;
+    line-height: 35px;
+    margin-top: -9.5px;
+    font-family: Roboto;
+    font-size: 16px;
+    color: rgba(225,225,225,1);
+}
+#__Cars___Vehicles {
+    position: absolute;
+    left: 242px;
+    top: 33px;
+    width: 138px;
+    height: 19px;
+    line-height: 35px;
+    margin-top: -9.5px;
+    font-family: Roboto;
+    font-size: 16px;
+    color: rgba(225,225,225,1);
+}
+#__Housing {
+    position: absolute;
+    left: 242px;
+    top: 63px;
+    overflow: visible;
+    width: 138px;
+    height: 19px;
+    line-height: 35px;
+    margin-top: -9.5px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(225,225,225,1);
+}
+#__Services {
+    position: absolute;
+    left: 242px;
+    top: 93px;
+    width: 71px;
+    height: 19px;
+    line-height: 35px;
+    margin-top: -9.5px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(225,225,225,1);
+}
+#__Community {
+    position: absolute;
+    left: 242px;
+    top: 123px;
+    width: 93px;
+    height: 19px;
+    line-height: 35px;
+    margin-top: -9.5px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(225,225,225,1);
+}
+#__Jobs {
+    position: absolute;
+    left: 242px;
+    top: 153px;
+    width: 93px;
+    height: 19px;
+    line-height: 35px;
+    margin-top: -9.5px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(225,225,225,1);
+}
+#__Support_Desk {
+    position: absolute;
+    left: 445px;
+    top: 97px;
+    width: 205px;
+    height: 35px;
+    line-height: 35px;
+    margin-top: -9.5px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(225,225,225,1);
+}

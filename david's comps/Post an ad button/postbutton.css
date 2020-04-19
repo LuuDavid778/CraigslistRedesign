@@ -1,0 +1,17 @@
+.post_button_cont {
+    background-color: #FC5761;
+    display: flex;
+    width: 110pt;
+    height: 34pt;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.post_button_text {
+    margin-left: 3pt;
+    margin-right: 5pt;
+}

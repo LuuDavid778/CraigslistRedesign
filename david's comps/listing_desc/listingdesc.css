@@ -1,0 +1,14 @@
+.listing_desc{
+font-family: Roboto;
+font-weight: normal;
+font-size: 13pt;
+text-align: left;
+color: #012c3d;
+width: 400pt;
+height: 250pt;
+
+}
+
+.listing_desc_header {
+    font-family: Roboto;
+}

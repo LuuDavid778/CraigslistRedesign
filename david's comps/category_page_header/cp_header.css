@@ -1,0 +1,24 @@
+#header {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 269px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    color: rgba(1,44,61,1);
+}
+#subhead {
+    position: absolute;
+    left: 0px;
+    top: 87px;
+    width: 352px;
+    text-align: left;
+    font-family: Roboto;
+    font-size: 25px;
+    color: rgba(90,150,156,1);
+}
