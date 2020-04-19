@@ -1,0 +1,62 @@
+.sign_up_form_name_cont {
+    width: 516pt;
+    height: 80pt;
+
+    display:flex;
+    padding-bottom: 20pt;
+
+}
+
+.sign_up_form_name {
+width: 250pt;
+height: 72pt;
+border-radius: 20pt;
+background: transparent;
+border: 1pt solid #707070;
+margin: 5pt;
+
+
+}
+
+.sign_up_form_name::placeholder {
+    font-family: Roboto;
+font-weight: normal;
+font-size: 21pt;
+text-align: left;
+color: #b8b8b8;
+opacity: 0.78;
+padding-left: 20pt;
+}
+
+
+.sign_up_form_email_ps_cont {
+    width: 516pt;
+    height: 200pt;
+
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.sign_up_form_email_ps {
+    width: 490pt;
+height: 90pt;
+border-radius: 20pt;
+background: transparent;
+border: 1pt solid #707070;
+margin: 10pt;
+
+}
+
+.sign_up_form_email_ps::placeholder {
+    font-family: Roboto;
+font-weight: normal;
+font-size: 21pt;
+text-align: left;
+color: #b8b8b8;
+opacity: 0.78;
+padding-left: 20pt;
+
+}

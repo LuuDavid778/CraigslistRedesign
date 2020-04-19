@@ -1,0 +1,15 @@
+.sign_up_buttom {
+    width: 531px;
+height: 85px;
+background: #fc5761;
+border-radius: 20pt;
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: Roboto;
+font-weight: bold;
+font-size: 29px;
+text-align: left;
+color: #fff;
+
+}
