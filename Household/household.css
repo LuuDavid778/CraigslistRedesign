@@ -1,0 +1,135 @@
+.sidebar {
+    width: 250px;
+    height: 540px;
+    background-color: #012C3D;
+    margin: 5px;
+}
+#sidebars {
+    display: flex;
+    flex-direction: row;
+}
+
+.sidebar_cars {
+    width: 250px;
+    height: 940px;
+    background-color: #012C3D;
+    margin: 5px;
+}
+
+.sidebar_header {
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+}
+.sidebar_subhead {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-bottom: 3px;
+}
+
+.sidebar_section {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 25px;
+}
+
+.location_input {
+    width:150px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.location_icon {
+    position: relative;
+    top: 5px;
+    left: 5px;
+    width: 16px;
+    height: 16px;
+}
+
+
+.sidebar_input {
+    width:150px;
+    text-align: center;
+    margin-bottom: 15px;
+    border-radius: 3px;
+}
+
+.sidebar_price {
+    display: flex;
+    flex-direction: row;
+}
+
+.price_input {
+    text-align: center;
+    height:20px;
+    width: 45px;
+    border-radius: 3px;
+}
+
+.price_to {
+    flex: .5;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.sidebar_category {
+    width: 250px;
+    height: 55px;
+    border-top: 1px solid white;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+.sidebar_cat_header {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-left: 25px;
+}
+
+.arrow_down_icon {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 5px;
+    top: 5px;
+}
+
+.arrow_down_category {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 70px;
+    top: 25px;
+}
+
+.sidebar_buttons {
+    width: 65px;
+    padding: 5px;
+    background-color: #FC5761;
+    color: white;
+    border: none;
+    margin: 5px;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.sidebar_buttons:active {
+    border: 2px solid #FC5761;
+    background-color: white;
+    color: #FC5761;
+}
+
+#cars_buttons {
+    display: flex;
+    width: 250px;
+    height: 40px;
+    justify-content: center;
+    align-content: center;
+}
