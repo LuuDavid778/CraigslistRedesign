@@ -1,0 +1,154 @@
+.item_info_fav {
+    display: flex;
+    margin-left: 35px;
+    margin-right: 480px;
+}
+
+.item_info_fav h3{
+    margin-top: 50px;
+}
+
+.item_user_fav {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.user_info_fav p{
+    font-size: 10px;
+    margin: 0px;
+}
+
+.user_info_fav h4{
+    margin: 0px;
+}
+
+.user_img_fav{
+    width: 25px;
+    height: 25px;
+    margin-top: 8px;
+    margin-right: 10px;
+}
+
+.buttons {
+    font-family: 'Roboto', sans-serif;
+}
+
+.basic_button {
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin: 10px;
+    font-size: 15px;
+}
+
+.read_button {
+    font-size: 15px;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.active {
+    display: flex;
+    flex-direction: row;
+}
+
+.button_left h5{
+    position: relative;
+    display: flex;
+    margin-top: 15px;
+    color: #012C3D;
+}
+
+.button_right h5{
+    position: relative;
+    display: flex;
+    margin-top: 15px;
+    color: #012C3D;
+}
+
+.button_left {
+    width: 100px;
+    height: 40px;
+    border: 1px solid #012C3D;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px 0px 0px 5px;
+    cursor: pointer;
+}
+
+.button_right {
+    width: 100px;
+    height: 40px;
+    border: 1px solid #012C3D;
+    display: flex;
+    justify-content: center;
+    border-radius: 0px 5px 5px 0px;
+    cursor: pointer;
+}
+
+.button_red {
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid #F8444F;
+    margin: 10px;
+    font-size: 20px;
+    color:#F8444F;
+}
+
+.to_ads_button {
+    font-size: 15px;
+    width: 120px;
+    height: 40px;
+    background-color: #F8444F;
+    border-radius: 10px;
+    border: none;
+    margin: 10px;
+    color: white;
+}
+
+.left_arrow {
+    margin-right:9px;
+    margin-bottom: -3px;
+}
+
+.sub_menu {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.menu_item {
+    text-decoration: none;
+    margin: 15px;
+    font-size: 20px;
+    color: #78BDC4;
+    border-bottom: none;
+}
+
+.menu_item:active {
+    border-bottom: 3px solid#78BDC4;
+}
+
+.select_all_box {
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.select_all {
+    display: flex;
+    flex-direction: row;
+}
+
+.select_box {
+    width:20px;
+    height:20px;
+}

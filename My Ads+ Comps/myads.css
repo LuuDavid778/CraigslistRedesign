@@ -1,0 +1,62 @@
+.item_box {
+    width:800px;
+    height: 150px;
+    box-shadow: 5px 5px 30px #888888;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+}
+
+.item_img {
+    height: 150px;
+    width: 150px;
+}
+
+.img_item {
+    height: 150px;
+    width: 150px;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.user_img {
+    width: 25px;
+    height: 25px;
+}
+
+.item_user {
+    display: flex;
+    flex-direction: row;
+    margin-top: 45px;
+}
+
+.user_info h4{
+    margin:5px;
+}
+
+.user_info p{
+    margin:5px;
+    font-size: 13px;
+    margin-top: 25px;
+}
+
+.item_info {
+    margin-left: 35px;
+    margin-right: 320px;
+}
+
+.item_msg_title {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.user_img_msg {
+    width: 25px;
+    height: 25px;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+
+
